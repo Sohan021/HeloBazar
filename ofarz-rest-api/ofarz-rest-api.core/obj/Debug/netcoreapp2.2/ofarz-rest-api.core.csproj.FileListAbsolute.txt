@@ -1,0 +1,9 @@
+F:\SoftKarrot\Ofarz\ofarz-rest-api\ofarz-rest-api.core\bin\Debug\netcoreapp2.2\ofarz-rest-api.core.deps.json
+F:\SoftKarrot\Ofarz\ofarz-rest-api\ofarz-rest-api.core\bin\Debug\netcoreapp2.2\ofarz-rest-api.core.dll
+F:\SoftKarrot\Ofarz\ofarz-rest-api\ofarz-rest-api.core\bin\Debug\netcoreapp2.2\ofarz-rest-api.core.pdb
+F:\SoftKarrot\Ofarz\ofarz-rest-api\ofarz-rest-api.core\obj\Debug\netcoreapp2.2\ofarz-rest-api.core.csprojAssemblyReference.cache
+F:\SoftKarrot\Ofarz\ofarz-rest-api\ofarz-rest-api.core\obj\Debug\netcoreapp2.2\ofarz-rest-api.core.csproj.CoreCompileInputs.cache
+F:\SoftKarrot\Ofarz\ofarz-rest-api\ofarz-rest-api.core\obj\Debug\netcoreapp2.2\ofarz-rest-api.core.AssemblyInfoInputs.cache
+F:\SoftKarrot\Ofarz\ofarz-rest-api\ofarz-rest-api.core\obj\Debug\netcoreapp2.2\ofarz-rest-api.core.AssemblyInfo.cs
+F:\SoftKarrot\Ofarz\ofarz-rest-api\ofarz-rest-api.core\obj\Debug\netcoreapp2.2\ofarz-rest-api.core.dll
+F:\SoftKarrot\Ofarz\ofarz-rest-api\ofarz-rest-api.core\obj\Debug\netcoreapp2.2\ofarz-rest-api.core.pdb
